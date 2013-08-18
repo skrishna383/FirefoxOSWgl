@@ -1,0 +1,13 @@
+{
+  "name": "rock paper scissor",
+  "description": "My elevator pitch goes here",
+  "launch_path": "/qwerty.html",
+  "icons": {
+    "128": "/icon.png"
+  },
+  "developer": {
+    "name": "mlnvsaikrishna",
+    "url": "http://mlnvsaikrishna.blogspot.com"
+  },
+  "default_locale": "en"
+}
