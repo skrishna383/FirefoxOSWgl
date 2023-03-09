@@ -30,8 +30,8 @@ else if (q==="paper")
 else return 31;}
 }
 var z=comp(a,c);
-var a="you won.......";
-var b="you lost.......";
+var a="you won";
+var b="you loser";
 var c="It's a tie"
 if(z===0){document.getElementById("sai").innerHTML=c}
 else if (z===10){document.getElementById("sai").innerHTML=a}
